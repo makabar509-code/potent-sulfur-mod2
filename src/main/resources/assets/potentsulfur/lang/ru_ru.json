@@ -1,0 +1,12 @@
+{
+  "item.potentsulfur.active_sulfur": "Активная сера",
+  "block.potentsulfur.sulfur_cube": "Серный куб",
+  "block.potentsulfur.potent_sulfur_shell": "Мощный Серный куб",
+  "block.potentsulfur.filled_potent_sulfur_cube": "Мощный Серный куб (наполненный)",
+  "item.potentsulfur.filled_potent_sulfur_cube": "Мощный Серный куб (наполненный)",
+
+  "message.potentsulfur.fully_grown": "Куб уже достиг максимального размера!",
+  "tooltip.potentsulfur.contains_build": "Содержит постройку %sx%sx%s",
+
+  "itemGroup.potentsulfur": "Potent Sulfur Cubes"
+}
